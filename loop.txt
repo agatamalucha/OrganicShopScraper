@@ -1,0 +1,10 @@
+
+
+
+
+        {{ find_json }}
+        {{ my_type }}
+
+        {% for element in listing %}
+        <p> {{element}}  </p>
+        {% endfor %}

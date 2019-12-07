@@ -1,0 +1,25 @@
+/*------------------------------------------------------------------------------
+    FOOTER
+------------------------------------------------------------------------------*/
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #040809;
+}
+
+.page-footer {
+  background-color: black;
+  padding-left: 5%;
+  position: center;
+  bottom: 0;
+  width: 100%;
+
+}
+
+.row-footer a {
+  margin-right: 10px !important;
+  color: #fef6d2;
+}
